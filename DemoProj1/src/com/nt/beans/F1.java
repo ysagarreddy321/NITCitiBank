@@ -15,6 +15,7 @@ public class F1 {
 	}
 
 	public void m3() {
+		System.out.println("F1.m3()");
 		
 
 	}
