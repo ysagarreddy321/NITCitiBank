@@ -13,6 +13,10 @@ public class Utility {
 		return new Date();
 	}
 	public void m1() {
+/*<<<<<<< HEAD
 		System.out.println("Utility m1() method ...abcdef");
+=======*/
+		System.out.println("Utility m1() method1234");
+//>>>>>>> branch 'master' of https://github.com/ysagarreddy321/NITCitiBank.git
 	}
 }
